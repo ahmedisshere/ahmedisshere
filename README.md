@@ -3,6 +3,7 @@
 📫 Reach me on → tausifahmed471@gmail.com ◄► tausifahmed472@gmail.com 
 
 
+
 ### Connect with me →
 
 <a href="https://www.linkedin.com/in/tausif-ahmed-a209321b7/" target="blank"><img align="left" src="https://cdn.jsdelvr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" height="22" widht="22"/> </a>
@@ -16,6 +17,29 @@
 <a href="https://steamcommunity.com/profiles/76561198401243178/" target="blank"><img align="left" src="https://cdn.jsdelvr.net/npm/simple-icons@3.0.1/icons/steam.svg" height="22" widht="22"/> </a>
 
 <a href="https://discord.com/channels/856287951319466015/856287951784771616" target="blank"><img align="left" src="https://cdn.jsdelvr.net/npm/simple-icons@3.0.1/icons/discord.svg" height="22" widht="22"/> </a>
+
+
+
+
+### Tools & Technologies →
+
+<a href="" target="blank"><img align="left" src="https://cdn.jsdelvr.net/npm/simple-icons@3.0.1/icons/javascript.svg" height="22" widht="22"/> </a>
+
+<a href="" target="blank"><img align="left" src="https://cdn.jsdelvr.net/npm/simple-icons@3.0.1/icons/html5.svg" height="22" widht="22"/> </a>
+
+<a href="" target="blank"><img align="left" src="https://cdn.jsdelvr.net/npm/simple-icons@3.0.1/icons/css3.svg" height="22" widht="22"/> </a>
+
+<a href="" target="blank"><img align="left" src="https://cdn.jsdelvr.net/npm/simple-icons@3.0.1/icons/django.svg" height="22" widht="22"/> </a>
+
+<a href="" target="blank"><img align="left" src="https://cdn.jsdelvr.net/npm/simple-icons@3.0.1/icons/php.svg" height="22" widht="22"/> </a>
+
+<a href="" target="blank"><img align="left" src="https://cdn.jsdelvr.net/npm/simple-icons@3.0.1/icons/laravel.svg" height="22" widht="22"/> </a>
+
+<a href="" target="blank"><img align="left" src="https://cdn.jsdelvr.net/npm/simple-icons@3.0.1/icons/bootstrap.svg" height="22" widht="22"/> </a>
+
+<a href="" target="blank"><img align="left" src="https://cdn.jsdelvr.net/npm/simple-icons@3.0.1/icons/tailwindcss.svg" height="22" widht="22"/> </a>
+
+
 
 
 
