@@ -22,25 +22,25 @@
 
 ### Tools & Technologies →
 
-<a href="" target="blank"><img align="left" src="https://cdn.jsdelvr.net/npm/simple-icons@3.0.1/icons/javascript.svg" height="22" widht="22"/> </a>
+<a href="" target="_blank"><img align="left" src="https://cdn.jsdelvr.net/npm/simple-icons@3.0.1/icons/javascript.svg" height="22" widht="22"/> </a>
 
-<a href="" target="blank"><img align="left" src="https://cdn.jsdelvr.net/npm/simple-icons@3.0.1/icons/react.svg" height="22" widht="22"/> </a>
+<a href="" target="_blank"><img align="left" src="https://cdn.jsdelvr.net/npm/simple-icons@3.0.1/icons/react.svg" height="22" widht="22"/> </a>
 
-<a href="" target="blank"><img align="left" src="https://cdn.jsdelvr.net/npm/simple-icons@3.0.1/icons/html5.svg" height="22" widht="22"/> </a>
+<a href="" target="_blank"><img align="left" src="https://cdn.jsdelvr.net/npm/simple-icons@3.0.1/icons/html5.svg" height="22" widht="22"/> </a>
 
-<a href="" target="blank"><img align="left" src="https://cdn.jsdelvr.net/npm/simple-icons@3.0.1/icons/css3.svg" height="22" widht="22"/> </a>
+<a href="" target="_blank"><img align="left" src="https://cdn.jsdelvr.net/npm/simple-icons@3.0.1/icons/css3.svg" height="22" widht="22"/> </a>
 
-<a href="" target="blank"><img align="left" src="https://cdn.jsdelvr.net/npm/simple-icons@3.0.1/icons/django.svg" height="22" widht="22"/> </a>
+<a href="" target="_blank"><img align="left" src="https://cdn.jsdelvr.net/npm/simple-icons@3.0.1/icons/django.svg" height="22" widht="22"/> </a>
 
-<a href="" target="blank"><img align="left" src="https://cdn.jsdelvr.net/npm/simple-icons@3.0.1/icons/php.svg" height="22" widht="22"/> </a>
+<a href="" target="_blank"><img align="left" src="https://cdn.jsdelvr.net/npm/simple-icons@3.0.1/icons/php.svg" height="22" widht="22"/> </a>
 
-<a href="" target="blank"><img align="left" src="https://cdn.jsdelvr.net/npm/simple-icons@3.0.1/icons/laravel.svg" height="22" widht="22"/> </a>
+<a href="" target="_blank"><img align="left" src="https://cdn.jsdelvr.net/npm/simple-icons@3.0.1/icons/laravel.svg" height="22" widht="22"/> </a>
 
-<a href="" target="blank"><img align="left" src="https://cdn.jsdelvr.net/npm/simple-icons@3.0.1/icons/bootstrap.svg" height="22" widht="22"/> </a>
+<a href="" target="_blank"><img align="left" src="https://cdn.jsdelvr.net/npm/simple-icons@3.0.1/icons/bootstrap.svg" height="22" widht="22"/> </a>
 
-<a href="" target="blank"><img align="left" src="https://cdn.jsdelvr.net/npm/simple-icons@3.0.1/icons/tailwindcss.svg" height="22" widht="22"/> </a>
+<a href="" target="_blank"><img align="left" src="https://cdn.jsdelvr.net/npm/simple-icons@3.0.1/icons/tailwindcss.svg" height="22" widht="22"/> </a>
 
-<a href="" target="blank"><img align="left" src="https://cdn.jsdelvr.net/npm/simple-icons@3.0.1/icons/mysql.svg" height="22" widht="22"/> </a>
+<a href="" target="_blank"><img align="left" src="https://cdn.jsdelvr.net/npm/simple-icons@3.0.1/icons/mysql.svg" height="22" widht="22"/> </a>
 
 
 
