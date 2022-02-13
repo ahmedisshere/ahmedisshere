@@ -23,7 +23,6 @@
 
 
 
-Voracious gamer with a thirst for learning new technologies
 
 
 
