@@ -7,7 +7,7 @@
 
 
 
-### Connect with me →
+### Socials →
 
 <a href="https://www.linkedin.com/in/tausif-ahmed-a209321b7/" target="_blank"><img align="left" src="https://cdn.jsdelvr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" height="22" widht="22"/> </a>
 
