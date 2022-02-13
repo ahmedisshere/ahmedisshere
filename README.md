@@ -3,6 +3,9 @@
 📫 Reach me on → tausifahmed471@gmail.com ◄► tausifahmed472@gmail.com 
 
 
+### Voracious gamer with a thirst for learning new technologies 🧩
+
+
 
 ### Connect with me →
 
