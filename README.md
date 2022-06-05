@@ -19,7 +19,7 @@
 
 <a href="https://steamcommunity.com/profiles/76561198401243178/" target="_blank"><img align="left" src="https://cdn.jsdelvr.net/npm/simple-icons@3.0.1/icons/steam.svg" height="22" widht="22"/> </a>
 
-<a href="[https://discord.com/channels/856287951319466015/856287951784771616](https://discord.com/channels/960969909653876826/974565600653352970)" target="_blank"><img align="left" src="https://cdn.jsdelvr.net/npm/simple-icons@3.0.1/icons/discord.svg" height="22" widht="22"/> </a> <br></br>
+<a href="https://discord.com/channels/960969909653876826/974565600653352970" target="_blank"><img align="left" src="https://cdn.jsdelvr.net/npm/simple-icons@3.0.1/icons/discord.svg" height="22" widht="22"/> </a> <br></br>
 
 
 
