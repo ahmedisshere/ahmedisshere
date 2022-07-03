@@ -25,8 +25,7 @@
 <a href="https://www.linkedin.com/in/tausif-ahmed-a209321b7/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="ahmedisshere" height="22" width="22" /></a>
 <a href="https://stackoverflow.com/users/17909059/tausif-ahmed" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="ahmedisshere" height="22" width="22" /></a>
 <a href="https://www.instagram.com/taus1ff/?fbclid=IwAR21bcDX8RSnq4_qxrnEsh02RtnkMdRVUqndX_x5OUpXutg0O0eSQmGpL8o" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="ahmedisshere" height="22" width="22" /></a>
-  <a href="https://discord.com/channels/960969909653876826/974565600653352970" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="ahmedisshere" height="22" width="22" /></a>
-  <a href="https://steamcommunity.com/profiles/76561198401243178/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/steam.svg" alt="ahmedisshere" height="22" width="22" /></a>
+<a href="https://steamcommunity.com/profiles/76561198401243178/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/steam.svg" alt="ahmedisshere" height="22" width="22" /></a>
 </p>
 
 
