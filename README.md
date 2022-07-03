@@ -45,19 +45,7 @@
 <span>&nbsp;&nbsp;&nbsp;&nbsp;</span>  
 <img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/noframes.gif" alt="Microsoft Internet Explorer" />
 
-</div>
 
-
-<div align="center">
-<table width="100%"> 
-  <tr>
-  <td width="100%">
-
-&nbsp; <br> [![Spotify](https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/31wdo7vtzbuh3i6imdfbtvf7r6iq)
-
-  </td>
-</table>
-</div>
 
 
 
