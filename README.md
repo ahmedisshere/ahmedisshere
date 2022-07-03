@@ -30,14 +30,34 @@
 </p>
 
 
-<br>
-<br>
-<br>
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/38964964/167205200-026483f2-8b0f-4101-b76f-96347a246889.png" width="60%" alt="Here is a tip: to improve the readability of your code, you can import __future__ as tomorrow">
-</div>
-<br>
 
+<img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
+<br />
+
+![Visitor Count](https://profile-counter.glitch.me/ahmedisshere/count.svg)
+
+
+<img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/notepad.gif" alt="Site created with Notepad" height="30" />
+<!-- "margin-right: whatever;" -->
+<span>&nbsp;&nbsp;&nbsp;&nbsp;</span>  
+<img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/ie_logo.gif" alt="Microsoft Internet Explorer" />
+<span>&nbsp;&nbsp;&nbsp;&nbsp;</span>  
+<img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/noframes.gif" alt="Microsoft Internet Explorer" />
+
+</div>
+
+
+<div align="center">
+<table width="100%"> 
+  <tr>
+  <td width="100%">
+
+&nbsp; <br> [![Spotify](https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/31wdo7vtzbuh3i6imdfbtvf7r6iq)
+
+  </td>
+</table>
+</div>
 
 
 
